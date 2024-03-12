@@ -1,0 +1,58 @@
+
+.cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input {
+    margin-bottom: 20px;
+  }
+  
+  .subject, .hours {
+    margin-right: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .data {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+  }
+  .display p{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: 700;
+  }
+
+  .btn {
+    cursor: pointer;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    color: white;
+    margin: 10px;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    color: white;
+  }
+  
