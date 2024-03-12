@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Education_planner/static/css/main.f855e6bc.css",
-    "main.js": "/Education_planner/static/js/main.11e80a85.js",
+    "main.css": "/Education_planner/static/css/main.54cb9e6a.css",
+    "main.js": "/Education_planner/static/js/main.1831ec24.js",
     "static/js/453.ec502130.chunk.js": "/Education_planner/static/js/453.ec502130.chunk.js",
     "static/media/logo.svg": "/Education_planner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Education_planner/index.html",
-    "main.f855e6bc.css.map": "/Education_planner/static/css/main.f855e6bc.css.map",
-    "main.11e80a85.js.map": "/Education_planner/static/js/main.11e80a85.js.map",
+    "main.54cb9e6a.css.map": "/Education_planner/static/css/main.54cb9e6a.css.map",
+    "main.1831ec24.js.map": "/Education_planner/static/js/main.1831ec24.js.map",
     "453.ec502130.chunk.js.map": "/Education_planner/static/js/453.ec502130.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.11e80a85.js"
+    "static/css/main.54cb9e6a.css",
+    "static/js/main.1831ec24.js"
   ]
 }
