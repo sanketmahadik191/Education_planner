@@ -56,6 +56,7 @@ const Planner = () => {
                     placeholder="Hours.."
                     onChange={addHour}
                     value={todoHours}
+                    type="number"
                 />
                 <button
                     type="button"
